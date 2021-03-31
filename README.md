@@ -1,11 +1,11 @@
 # README
 assignment 0 readme
 1. 5 things about windows that i like 
- its really easy to use 
- it has a lot of video games you can get 
- theres backword combatability 
- theres tons of different software you can download from it 
- its already installed on any new microsift computers so you dont have to go and install it yourself 
+ 2. its really easy to use 
+ 3. it has a lot of video games you can get 
+4.  theres backword combatability 
+ 5. theres tons of different software you can download from it 
+ 6. its already installed on any new microsift computers so you dont have to go and install it yourself 
  2. 5 cons of windows 
  its very easy to get viruses on windows 
  secuirty is just pretty lacking compared to others 
